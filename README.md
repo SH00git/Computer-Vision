@@ -4,6 +4,8 @@
 
 #### Image Classification of Cifar Dataset
 
-#### Image Classification of 
+#### Image Classification of Fashion MNIST dataset (Grayscale)
+
+#### Handwritten Digits Recognition & Classification (Grayscale Images)
 ##### H5
 ###### H6
