@@ -7,7 +7,7 @@ Code:
 
 
 #### Image Classification of Fashion MNIST dataset (Grayscale)
-code:
+code:https://github.com/SH00git/Computer-Vision/blob/main/P15_0_Fashion_MNIST_Dataset.ipynb
 
 
 #### Handwritten Digits Recognition & Classification (Grayscale Images)
