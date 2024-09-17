@@ -17,3 +17,7 @@ code:https://github.com/SH00git/Computer-Vision/blob/main/P15_0_Fashion_MNIST_Da
 - Built ANN model to classify the handwritten digit images 
 code:https://github.com/SH00git/Computer-Vision/blob/main/P14.0%20Handwritten%20Digits%20Recognition.ipynb
 
+#### TFOD 
+- Object detection using Transfer Learning - using Tensorflow API
+- https://github.com/SH00git/Computer-Vision/blob/main/TFOD.ipynb
+
