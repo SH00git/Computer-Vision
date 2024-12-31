@@ -17,7 +17,13 @@ code:https://github.com/SH00git/Computer-Vision/blob/main/P15_0_Fashion_MNIST_Da
 - Built ANN model to classify the handwritten digit images 
 code:https://github.com/SH00git/Computer-Vision/blob/main/P14.0%20Handwritten%20Digits%20Recognition.ipynb
 
+## Object Detection
+
 #### TFOD 
 - Object detection using Transfer Learning - using Tensorflow API
-- https://github.com/SH00git/Computer-Vision/blob/main/TFOD.ipynb
+- (https://github.com/SH00git/Computer-Vision/blob/main/Object%20Detection/TFOD%20(1).ipynb)
+
+#### Safety Equipment Detection using YOLO
+- https://github.com/SH00git/Computer-Vision/blob/main/Object%20Detection/Safety%20Equipment%20Detection%20(YOLO_v6).ipynb
+
 
