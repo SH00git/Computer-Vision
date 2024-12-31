@@ -26,4 +26,11 @@ code:https://github.com/SH00git/Computer-Vision/blob/main/P14.0%20Handwritten%20
 #### Safety Equipment Detection using YOLO
 - https://github.com/SH00git/Computer-Vision/blob/main/Object%20Detection/Safety%20Equipment%20Detection%20(YOLO_v6).ipynb
 
+## Image Segmentation
+
+#### Image Segmentation of blood cells using YOLO V8
+Code :https://github.com/SH00git/Computer-Vision/blob/main/Image%20Segmentation/yolov8_instance_segmentation_on_blood_cells.ipynb
+
+
+
 
