@@ -13,4 +13,4 @@ code:https://github.com/SH00git/Computer-Vision/blob/main/P15_0_Fashion_MNIST_Da
 
 #### Handwritten Digits Recognition & Classification (Grayscale Images)
 - Built ANN model to classify the handwritten digit images 
-code:https://github.com/SH00git/Computer-Vision/blob/main/P14.0%20Handwritten%20Digits%20Recognition.ipynb
+code: https://github.com/SH00git/Computer-Vision/blob/main/Image%20Classification/P14.0%20Handwritten%20Digits%20Recognition.ipynb
