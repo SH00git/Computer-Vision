@@ -8,7 +8,7 @@ Code: https://github.com/SH00git/Computer-Vision/blob/main/Image%20Classificatio
 
 #### Image Classification of Fashion MNIST dataset (Grayscale)
 - Built ANN & CNN model to classify the fashion class labels of grayscale images of MNIST dataset
-code:https://github.com/SH00git/Computer-Vision/blob/main/P15_0_Fashion_MNIST_Dataset.ipynb
+code: https://github.com/SH00git/Computer-Vision/blob/main/Image%20Classification/P15_0_Fashion_MNIST_Dataset.ipynb
 
 
 #### Handwritten Digits Recognition & Classification (Grayscale Images)
