@@ -3,7 +3,7 @@
     https://github.com/SH00git/Computer-Vision/blob/main/Object%20Detection/TFOD%20(1).ipynb
 
 
-#### YOLOv5
+#### Using YOLO Models
 
   
 - Road Safety Object Detection (Helmet, License Plate, Motorcyclist) using YOLOv5
